@@ -92,7 +92,7 @@ Ensure code communicates its intent clearly:
 * Review naming conventions (highlight only major issues).
 * Review inline documentation – does it explain complex logic?
 * Check for spelling errors in code/comments.
-* Does the method `sendPhysicalCardActivationMail()` match its functionality?
+* Does the method `methodX()` match its functionality?
 * Are there any misleading or misnamed identifiers?
 
 ---
